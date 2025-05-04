@@ -1,2 +1,2 @@
 # Repo_BAOYAN
-机试准备笔记
+Recording notes for preparing baoyan online test
